@@ -52,7 +52,7 @@ używających biblioteki ppx_sexp_message.
 
 %package devel
 Summary:	A ppx rewriter for easy construction of S-expressions - development part
-Summary(pl.UTF-8):	Moduł przepisujący ppx do łatwego konstruowania S-wyrażeń - cześć programistyczna
+Summary(pl.UTF-8):	Moduł przepisujący ppx do łatwego konstruowania S-wyrażeń - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
